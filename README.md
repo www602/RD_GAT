@@ -6,6 +6,7 @@
 
 The directory of the project is as follows:
 
+```python
 ├── 0.datasets
 │   ├── embedding
 │   ├── mapping
@@ -37,7 +38,7 @@ The directory of the project is as follows:
 ├── README.md
 └── utility
     └── publication_analysis.py
-
+```
 
 ## Preprocess
 
